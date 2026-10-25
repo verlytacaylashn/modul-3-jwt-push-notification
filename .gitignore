@@ -1,0 +1,12 @@
+# Environment variables
+.env
+backend/.env
+mobile/.env
+
+# Dependencies
+node_modules/
+backend/node_modules/
+mobile/node_modules/
+
+# Logs
+npm-debug.log*
